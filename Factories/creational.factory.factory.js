@@ -60,6 +60,7 @@ class PointFactory
   }
 }
 
+
 let p1 = new Point(2, 3, CoordinateSystem.CARTESIAN);
 console.log(p1);
 // Point → PointFactory
