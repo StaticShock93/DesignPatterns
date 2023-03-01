@@ -53,13 +53,13 @@ class ChatRoom {
 
 let room = new ChatRoom()
 
-let john = new Person('John')
+// let john = new Person('John')
 let jane = new Person('Jane')
 
-room.join(john)
+// room.join(john)
 room.join(jane)
 
-john.say('hi room')
+// john.say('hi room')
 jane.say('oh, hey john')
 
 let simon = new Person('Simon')
